@@ -1,0 +1,1165 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BitirmeTezi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BitirmeTezi.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\fonts\\boxicons.scss",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\boxicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\js\\menu.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\libs\\apex-charts\\apex-charts.scss",
+      "PackagePath": "staticwebassets\\Admin\\libs\\apex-charts\\apex-charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\Admin\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\libs\\highlight\\highlight-github.scss",
+      "PackagePath": "staticwebassets\\Admin\\libs\\highlight\\highlight-github.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\Admin\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\libs\\highlight\\highlight.scss",
+      "PackagePath": "staticwebassets\\Admin\\libs\\highlight\\highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\Admin\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Admin\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\libs\\perfect-scrollbar\\perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\Admin\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_card.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_close.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_include.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_modal.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_nav.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_popover.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_root.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_type.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_colors.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\_base.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\_common.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\_footer.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\_include.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\_layout.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\_menu.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\mixins\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\mixins\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\mixins\\_avatar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\mixins\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\mixins\\_footer.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\mixins\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\mixins\\_menu.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\mixins\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\mixins\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\mixins\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_components\\mixins\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_components\\mixins\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_custom-variables\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_custom-variables\\_components.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_custom-variables\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_custom-variables\\_libs.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_custom-variables\\_libs.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_custom-variables\\_pages.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_custom-variables\\_pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_custom-variables\\_support.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_custom-variables\\_support.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_theme\\_common.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_theme\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\_theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_theme\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\core.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\core.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\pages\\page-account-settings.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\pages\\page-account-settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\pages\\page-auth.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\pages\\page-auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\pages\\page-icons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\pages\\page-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\pages\\page-misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\pages\\page-misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\tasks\\build.js",
+      "PackagePath": "staticwebassets\\Admin\\tasks\\build.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\Admin\\tasks\\prod.js",
+      "PackagePath": "staticwebassets\\Admin\\tasks\\prod.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\boxicon.min.css",
+      "PackagePath": "staticwebassets\\css\\boxicon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\errorstyle.css",
+      "PackagePath": "staticwebassets\\css\\errorstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\css\\templatemo.css",
+      "PackagePath": "staticwebassets\\css\\templatemo.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\1733b7b7-a5bf-4f34-b7e1-adce1af8930d.jpeg",
+      "PackagePath": "staticwebassets\\img\\1733b7b7-a5bf-4f34-b7e1-adce1af8930d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\18074ada-dc10-47fb-83b6-952009f06070.jpeg",
+      "PackagePath": "staticwebassets\\img\\18074ada-dc10-47fb-83b6-952009f06070.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\1cf93d9f-950f-46e0-97a5-671dc400ffc9.jpeg",
+      "PackagePath": "staticwebassets\\img\\1cf93d9f-950f-46e0-97a5-671dc400ffc9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\26a44af0-09de-42ac-926f-decbaef6b022.jpeg",
+      "PackagePath": "staticwebassets\\img\\26a44af0-09de-42ac-926f-decbaef6b022.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\30128ba8-c1ec-4072-bd5a-2699f2d1b448.jpeg",
+      "PackagePath": "staticwebassets\\img\\30128ba8-c1ec-4072-bd5a-2699f2d1b448.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\340fe655-a593-440f-9316-2801b8034414.jpeg",
+      "PackagePath": "staticwebassets\\img\\340fe655-a593-440f-9316-2801b8034414.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\40ca77e2-aede-4706-add1-c29666f27987.jpeg",
+      "PackagePath": "staticwebassets\\img\\40ca77e2-aede-4706-add1-c29666f27987.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\7bf41067-820a-4daa-b1a7-4f57d87b1cbe.jpeg",
+      "PackagePath": "staticwebassets\\img\\7bf41067-820a-4daa-b1a7-4f57d87b1cbe.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\81a901ec-c656-42af-9df9-2c4da663f2c9.jpeg",
+      "PackagePath": "staticwebassets\\img\\81a901ec-c656-42af-9df9-2c4da663f2c9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\8790cead-5bd4-4630-91df-9ddfd6a6f3c6.jpeg",
+      "PackagePath": "staticwebassets\\img\\8790cead-5bd4-4630-91df-9ddfd6a6f3c6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\984456b9-7d74-45ca-9d64-b26f18841ef9.jpeg",
+      "PackagePath": "staticwebassets\\img\\984456b9-7d74-45ca-9d64-b26f18841ef9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\LOGO.jpg",
+      "PackagePath": "staticwebassets\\img\\LOGO.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\aciklama1.png",
+      "PackagePath": "staticwebassets\\img\\aciklama1.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\aciklama2.png",
+      "PackagePath": "staticwebassets\\img\\aciklama2.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\aciklama3.png",
+      "PackagePath": "staticwebassets\\img\\aciklama3.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\aciklama4.png",
+      "PackagePath": "staticwebassets\\img\\aciklama4.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\afd126bd-7cac-42a4-b593-b2f6667e6811.jpeg",
+      "PackagePath": "staticwebassets\\img\\afd126bd-7cac-42a4-b593-b2f6667e6811.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\banner-bg-02.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-bg-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\banner-bg-03.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-bg-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\banner-img-01.svg",
+      "PackagePath": "staticwebassets\\img\\banner-img-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\banner-img-02.svg",
+      "PackagePath": "staticwebassets\\img\\banner-img-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\banner2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\banner3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\beyaz.png",
+      "PackagePath": "staticwebassets\\img\\beyaz.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\duzceuni.png",
+      "PackagePath": "staticwebassets\\img\\duzceuni.png"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\e0736003-1136-4e2d-abe4-6523738d9d2d.jpeg",
+      "PackagePath": "staticwebassets\\img\\e0736003-1136-4e2d-abe4-6523738d9d2d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\e9384fe2-98be-4b63-bf20-ea806ec84dd2.jpeg",
+      "PackagePath": "staticwebassets\\img\\e9384fe2-98be-4b63-bf20-ea806ec84dd2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\errorbg.jpg",
+      "PackagePath": "staticwebassets\\img\\errorbg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\f2644504-84ae-4350-8f6a-a57a01a51c53.jpeg",
+      "PackagePath": "staticwebassets\\img\\f2644504-84ae-4350-8f6a-a57a01a51c53.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\pricing.svg",
+      "PackagePath": "staticwebassets\\img\\pricing.svg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\slider5.jpg",
+      "PackagePath": "staticwebassets\\img\\slider5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\img\\work.svg",
+      "PackagePath": "staticwebassets\\img\\work.svg"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\js\\fslightbox.js",
+      "PackagePath": "staticwebassets\\js\\fslightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\js\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\js\\templatemo.js",
+      "PackagePath": "staticwebassets\\js\\templatemo.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\js\\templatemo.min.js",
+      "PackagePath": "staticwebassets\\js\\templatemo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bcces\\Desktop\\Tamamlanan Projeler\\BitirmeTezi\\BitirmeTezi\\BitirmeTezi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BitirmeTezi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BitirmeTezi.props",
+      "PackagePath": "build\\BitirmeTezi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BitirmeTezi.props",
+      "PackagePath": "buildMultiTargeting\\BitirmeTezi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BitirmeTezi.props",
+      "PackagePath": "buildTransitive\\BitirmeTezi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

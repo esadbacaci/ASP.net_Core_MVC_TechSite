@@ -1,0 +1,765 @@
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll.config
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.pdb
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.AssemblyReference.cache
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CoreCompileInputs.cache
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CopyComplete
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.dll
+C:\Users\karat\source\repos\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.pdb
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll.config
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.pdb
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CopyComplete
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.pdb
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll.config
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.pdb
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CopyComplete
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.pdb
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll.config
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.pdb
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.AssemblyReference.cache
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CoreCompileInputs.cache
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CopyComplete
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.pdb
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll.config
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.pdb
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.AssemblyReference.cache
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CoreCompileInputs.cache
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CopyComplete
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.pdb
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll.config
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.pdb
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CopyComplete
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.pdb
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll.config
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.pdb
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.AssemblyReference.cache
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CoreCompileInputs.cache
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CopyComplete
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.pdb
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll.config
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.pdb
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.AssemblyReference.cache
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CoreCompileInputs.cache
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CopyComplete
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.dll
+C:\Users\bcces\Desktop\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.pdb
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll.config
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Entitylayer.pdb
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Buffers.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Memory.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.AssemblyReference.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CoreCompileInputs.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.csproj.CopyComplete
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\Entitylayer\obj\Debug\Entitylayer.pdb

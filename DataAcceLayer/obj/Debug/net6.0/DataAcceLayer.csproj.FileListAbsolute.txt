@@ -1,0 +1,162 @@
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.deps.json
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.runtimeconfig.json
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.dll
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.pdb
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll.config
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.AssemblyReference.cache
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfoInputs.cache
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfo.cs
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CoreCompileInputs.cache
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CopyComplete
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.dll
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\refint\DataAcceLayer.dll
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.genruntimeconfig.cache
+C:\Users\karat\source\repos\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\ref\DataAcceLayer.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.deps.json
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.runtimeconfig.json
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.pdb
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll.config
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CopyComplete
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\refint\DataAcceLayer.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.genruntimeconfig.cache
+C:\Users\Mehmet\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\ref\DataAcceLayer.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.deps.json
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.runtimeconfig.json
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.pdb
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll.config
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CopyComplete
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\refint\DataAcceLayer.dll
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.genruntimeconfig.cache
+C:\Users\Mehmet\Desktop\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\ref\DataAcceLayer.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.deps.json
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.runtimeconfig.json
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.pdb
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll.config
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.AssemblyReference.cache
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfoInputs.cache
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfo.cs
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CoreCompileInputs.cache
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CopyComplete
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\refint\DataAcceLayer.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.genruntimeconfig.cache
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi14.11.2022\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\ref\DataAcceLayer.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.deps.json
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.runtimeconfig.json
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.pdb
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll.config
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.AssemblyReference.cache
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfoInputs.cache
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfo.cs
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CoreCompileInputs.cache
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CopyComplete
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\refint\DataAcceLayer.dll
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.genruntimeconfig.cache
+C:\Users\karat\OneDrive\Masaüstü\Tez\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\ref\DataAcceLayer.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.deps.json
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.runtimeconfig.json
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.pdb
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll.config
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CopyComplete
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\refint\DataAcceLayer.dll
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.genruntimeconfig.cache
+C:\Users\Mehmet\Desktop\Yeni klasör (2)\Tez2\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\ref\DataAcceLayer.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.deps.json
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.runtimeconfig.json
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.pdb
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll.config
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.AssemblyReference.cache
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfoInputs.cache
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfo.cs
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CoreCompileInputs.cache
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CopyComplete
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\refint\DataAcceLayer.dll
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.genruntimeconfig.cache
+C:\Users\karat\OneDrive\Masaüstü\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\ref\DataAcceLayer.dll
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.deps.json
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.runtimeconfig.json
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.dll
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.pdb
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll.config
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.AssemblyReference.cache
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfoInputs.cache
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfo.cs
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CoreCompileInputs.cache
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CopyComplete
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.dll
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\refint\DataAcceLayer.dll
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.genruntimeconfig.cache
+C:\Users\bcces\Desktop\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\ref\DataAcceLayer.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.deps.json
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.runtimeconfig.json
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.pdb
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\bin\Debug\net6.0\Entitylayer.dll.config
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.AssemblyReference.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfoInputs.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.AssemblyInfo.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CoreCompileInputs.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.csproj.CopyComplete
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\refint\DataAcceLayer.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.pdb
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\DataAcceLayer.genruntimeconfig.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\BitirmeTezi\BitirmeTezi\DataAcceLayer\obj\Debug\net6.0\ref\DataAcceLayer.dll

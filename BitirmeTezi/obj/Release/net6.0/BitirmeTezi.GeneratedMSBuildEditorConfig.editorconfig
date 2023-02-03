@@ -1,0 +1,225 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BitirmeTezi
+build_property.RootNamespace = BitirmeTezi
+build_property.ProjectDir = C:\Users\bcces\Desktop\BitirmeTezi\BitirmeTezi\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\bcces\Desktop\BitirmeTezi\BitirmeTezi
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Announcement/Announcement.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQW5ub3VuY2VtZW50XEFubm91bmNlbWVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Announcement/AnnouncementAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQW5ub3VuY2VtZW50XEFubm91bmNlbWVudEFkZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Announcement/AnnouncementDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQW5ub3VuY2VtZW50XEFubm91bmNlbWVudERldGFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Announcement/AnnouncementUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQW5ub3VuY2VtZW50XEFubm91bmNlbWVudFVwZGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Category/Category.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ2F0ZWdvcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Category/CategoryAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ2F0ZWdvcnlBZGQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Category/CategoryDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ2F0ZWdvcnlEZXRhaWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Category/CategoryUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ2F0ZWdvcnlVcGRhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Contact/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdFxDb250YWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Contact/ContactMessageDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdFxDb250YWN0TWVzc2FnZURldGFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/OurService/OurService.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyU2VydmljZVxPdXJTZXJ2aWNlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/OurService/OurServiceAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyU2VydmljZVxPdXJTZXJ2aWNlQWRkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/OurService/OurServiceDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyU2VydmljZVxPdXJTZXJ2aWNlRGV0YWlsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/OurService/OurServiceUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyU2VydmljZVxPdXJTZXJ2aWNlVXBkYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/OurTeam/OurTeam.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyVGVhbVxPdXJUZWFtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/OurTeam/OurTeamAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyVGVhbVxPdXJUZWFtQWRkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/OurTeam/OurteamDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyVGVhbVxPdXJ0ZWFtRGV0YWlsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/OurTeam/OurTeamUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyVGVhbVxPdXJUZWFtVXBkYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Work/AddWork.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya1xBZGRXb3JrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Work/Work.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya1xXb3JrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Work/WorkDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya1xXb3JrRGV0YWlsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Work/WorkUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya1xXb3JrVXBkYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Shared/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVycm9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Shared/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-654d6bvn9v
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-yqi4rhnr02
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/ErrorPage/Error1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEVycm9yMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/Home/OurServiceDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPdXJTZXJ2aWNlRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/Home/Work.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXb3JrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/Home/WorkDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXb3JrRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/Shared/Components/AnnouncementList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQW5ub3VuY2VtZW50TGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/Shared/Components/CategoryList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/Shared/Components/OurServiceList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcT3VyU2VydmljZUxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/Work/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/Work/WorkDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xXb3JrRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bcces/Desktop/BitirmeTezi/BitirmeTezi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j8j56qq9p5

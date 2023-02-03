@@ -1,0 +1,183 @@
+/* _content/BitirmeTezi/Shared/MainLayout.razor.rz.scp.css */
+.page[b-654d6bvn9v] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-654d6bvn9v] {
+    flex: 1;
+}
+
+.sidebar[b-654d6bvn9v] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-654d6bvn9v] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-654d6bvn9v]  a, .top-row .btn-link[b-654d6bvn9v] {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+    }
+
+    .top-row a:first-child[b-654d6bvn9v] {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-654d6bvn9v] {
+        display: none;
+    }
+
+    .top-row.auth[b-654d6bvn9v] {
+        justify-content: space-between;
+    }
+
+    .top-row a[b-654d6bvn9v], .top-row .btn-link[b-654d6bvn9v] {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-654d6bvn9v] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-654d6bvn9v] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-654d6bvn9v] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row[b-654d6bvn9v], article[b-654d6bvn9v] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* _content/BitirmeTezi/Shared/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-yqi4rhnr02] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-yqi4rhnr02] {
+    height: 3.5rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navbar-brand[b-yqi4rhnr02] {
+    font-size: 1.1rem;
+}
+
+.oi[b-yqi4rhnr02] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-yqi4rhnr02] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+    .nav-item:first-of-type[b-yqi4rhnr02] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-yqi4rhnr02] {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item[b-yqi4rhnr02]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+.nav-item[b-yqi4rhnr02]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.nav-item[b-yqi4rhnr02]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-yqi4rhnr02] {
+        display: none;
+    }
+
+    .collapse[b-yqi4rhnr02] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}
+/* _content/BitirmeTezi/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-j8j56qq9p5] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-j8j56qq9p5] {
+  color: #0077cc;
+}
+
+.btn-primary[b-j8j56qq9p5] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-j8j56qq9p5], .nav-pills .show > .nav-link[b-j8j56qq9p5] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-j8j56qq9p5] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-j8j56qq9p5] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-j8j56qq9p5] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-j8j56qq9p5] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-j8j56qq9p5] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

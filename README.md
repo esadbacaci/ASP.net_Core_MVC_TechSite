@@ -1,3 +1,3 @@
-/login/admin ile admin girişi sağlanabilir.
+/login ile admin girişi sağlanabilir.
 Kullanıcı adı : Admin 
 Şifre: Admin

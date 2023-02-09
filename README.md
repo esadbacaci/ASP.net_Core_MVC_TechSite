@@ -1,2 +1,3 @@
-# ASP.net-Core-MVC-Tech-Site-
-ASP.net Core MVC Tech Site 
+/admin ile giriş sağlanabilir.
+Kullanıcı adı : admin 
+Şifre: admin
